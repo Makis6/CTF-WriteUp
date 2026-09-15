@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "ad3c6a60f717e34b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a898df727075d1cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6823bc8c019d7989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 11/Reactor/Reactor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0142ac5e7407bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeac73215df0c019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ca072e7bee2ffd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "7b140a2fdee280ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "1519c6fde2220f4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae4de0027bb3ab14",
+    "type": "split",
+    "children": [
+      {
+        "id": "40958a332ff21d02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c021e92a57b53b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Season 11/Reactor/Reactor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "c3fced2d4df905b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Season 11/Reactor/Reactor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "1b3a4874fc775a9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "7f7a585df00c4ae1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "8e22eca2e58b7be9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Season 11/Reactor/Reactor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "6823bc8c019d7989",
+  "lastOpenFiles": [
+    "Medium/Linux/FireFlow/FireFlow.md.tmp.28364.dfbca656a468",
+    "Season 11/Paperwork/Paperwork.md",
+    "Season 11/Nimbus/Nimbus.md",
+    "Season 11/MakeSense/MakeSense.md",
+    "Season 11/Enigma/Enigma.md",
+    "Season 11/DevHub/DevHub.md",
+    "Season 11/DarkZeroReturns/DarkZeroReturns.md",
+    "Season 11/DanglingTree/Images/Pasted image 20260810181310.png",
+    "Season 11/DanglingTree/DanglingTree.md",
+    "Season 11/DanglingTree/Images",
+    "Season 11/Connected/Connected.md",
+    "Season 11/Cohort/Cohort.md",
+    "Season 11/Checkpoint/Checkpoint.md",
+    "Season 10/VariaType/VariaType.md",
+    "Season 10/WingData/WingData.md",
+    "Season 10/WingData/Image/wingdata logo.png",
+    "Season 10/Silentium/Silentium.md",
+    "Season 10/Silentium/CVE-2025-8110.py.md",
+    "Season 10/Pirate/Pirate.md",
+    "Season 10/Pirate/Images/pirate logo.png",
+    "Season 10/Ping Pong/Ping Pong.md",
+    "Season 10/Logging/Logging.md",
+    "Season 10/Kobold/Kobold.md",
+    "Season 10/Interpreter/Interpreter.md",
+    "Season 10/Interpreter/Images",
+    "Season 10/Interpreter/Images/interpreter logo.png",
+    "Season 10/Garfield/Garfield.md",
+    "Season 10/DevArea/DevArea.md",
+    "Season 10/CCTV/CCTV.md",
+    "Season 10/CCTV/Images",
+    "Season 10/CCTV/Sans titre.md",
+    "Season 10/CCTV/Images/CCTV logo.png",
+    "Pasted image 20260915190526.png",
+    "Season 9/Expressway/Expressway.md",
+    "Medium/Windows/Sendai/Sendai.md",
+    "Medium/Windows/Sendai/Images/sendai logo.png",
+    "Medium/Windows/Certified/Images/certified logo.png",
+    "Medium/Linux/Giveback/Pasted image 20251104181453.png",
+    "Easy/Windows/Support/Images/support logo.png",
+    "Season 9",
+    "Easy/Windows/Lock/Images",
+    "Easy/Windows/Blue/Images",
+    "Easy/Linux/Management/Images"
+  ]
+}
