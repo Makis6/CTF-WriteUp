@@ -50,14 +50,29 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 
 - [CCTV](Season%2010/CCTV/CCTV.md)
 - [DevArea](Season%2010/DevArea/DevArea.md)
+- 🔒 [Garfield](Season%2010/Garfield/Garfield.md)
 - [Interpreter](Season%2010/Interpreter/Interpreter.md)
 - [Kobold](Season%2010/Kobold/Kobold.md)
 - [Logging](Season%2010/Logging/Logging.md)
+- 🔒 [Ping Pong](Season%2010/Ping%20Pong/Ping%20Pong.md)
 - [Pirate](Season%2010/Pirate/Pirate.md)
 - [Silentium](Season%2010/Silentium/Silentium.md) (exploit script: [CVE-2025-8110.py](Season%2010/Silentium/CVE-2025-8110.py.md))
 - [VariaType](Season%2010/VariaType/VariaType.md)
 - [WingData](Season%2010/WingData/WingData.md)
 
+### Season 11
+
+- 🔒 [Checkpoint](Season%2011/Checkpoint/Checkpoint.md)
+- 🔒 [Cohort](Season%2011/Cohort/Cohort.md)
+- 🔒 [Connected](Season%2011/Connected/Connected.md)
+- 🔒 [DanglingTree](Season%2011/DanglingTree/DanglingTree.md)
+- 🔒 [DarkZeroReturns](Season%2011/DarkZeroReturns/DarkZeroReturns.md)
+- 🔒 [DevHub](Season%2011/DevHub/DevHub.md)
+- 🔒 [Enigma](Season%2011/Enigma/Enigma.md)
+- 🔒 [MakeSense](Season%2011/MakeSense/MakeSense.md)
+- 🔒 [Nimbus](Season%2011/Nimbus/Nimbus.md)
+- 🔒 [Paperwork](Season%2011/Paperwork/Paperwork.md)
+- 🔒 [Reactor](Season%2011/Reactor/Reactor.md)
 
 ### Easy
 
@@ -68,6 +83,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - [Data](Easy/Linux/Data/Data.md)
 - [Devvortex](Easy/Linux/Devvortex/Devvortex.md)
 - [Editor](Easy/Linux/Editor/Editor.md)
+- 🔒 [Management](Easy/Linux/Management/Management.md)
 - [Pandora](Easy/Linux/Pandora/Pandora.md)
 - [Precious](Easy/Linux/Precious/Precious.md)
 - [Shocker](Easy/Linux/Shocker/Shocker.md)
