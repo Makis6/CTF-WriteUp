@@ -109,6 +109,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 **Linux**
 
 - [FireFlow](Medium/Linux/FireFlow/FireFlow.md)
+- [SmartHire](Medium/Linux/SmartHire/SmartHire.md)
 
 **Windows**
 
