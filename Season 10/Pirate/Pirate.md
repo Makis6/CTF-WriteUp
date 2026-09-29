@@ -1,6 +1,5 @@
 
-![[pirate logo.png]]
-
+<img src="Images/pirate logo.png" width="191" alt="Pirate">
 
 # Attack Summary
 ```
