@@ -88,6 +88,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - [Devvortex](Easy/Linux/Devvortex/Devvortex.md)
 - [Editor](Easy/Linux/Editor/Editor.md)
 - 🔒 [Management](Easy/Linux/Management/Management.md)
+- [Nexus](Easy/Linux/Nexus/Nexus.md)
 - [Pandora](Easy/Linux/Pandora/Pandora.md)
 - [Precious](Easy/Linux/Precious/Precious.md)
 - [Shocker](Easy/Linux/Shocker/Shocker.md)
