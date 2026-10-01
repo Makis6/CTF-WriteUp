@@ -74,6 +74,10 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - 🔒 [Paperwork](Season%2011/Paperwork/Paperwork.md)
 - 🔒 [Reactor](Season%2011/Reactor/Reactor.md)
 
+### Season 12
+
+- 🔒 [Layover](Season%2012/Layover/Layover.md)
+
 ### Easy
 
 **Linux**
@@ -115,4 +119,10 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 
 - [Certified](Medium/Windows/Certified/Certified.md)
 - [Sendai](Medium/Windows/Sendai/Sendai.md)
+
+### Hard
+
+**Windows**
+
+- 🔒 [Scaffold](Hard/Windows/Scaffold/Scaffold.md)
 
