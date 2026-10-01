@@ -8,4 +8,8 @@ The writeup will be released once the machine is retired.
 
 ---
 
-🏆 **[Scaffold has been Pwned on HackTheBox](https://labs.hackthebox.com/achievement/machine/2127339/978)**
+<div align="center">
+  <a href="https://labs.hackthebox.com/achievement/machine/2127339/978">
+    <img src="Images/Scaffold%20-%20pwned.png" width="600" alt="Scaffold has been Pwned">
+  </a>
+</div>
