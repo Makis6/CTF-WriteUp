@@ -56,7 +56,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - [Logging](Season%2010/Logging/Logging.md)
 - 🔒 [Ping Pong](Season%2010/Ping%20Pong/Ping%20Pong.md)
 - [Pirate](Season%2010/Pirate/Pirate.md)
-- [Silentium](Season%2010/Silentium/Silentium.md) (exploit script: [CVE-2025-8110.py](Season%2010/Silentium/CVE-2025-8110.py.md))
+- [Silentium](Season%2010/Silentium/Silentium.md)
 - [VariaType](Season%2010/VariaType/VariaType.md)
 - [WingData](Season%2010/WingData/WingData.md)
 

