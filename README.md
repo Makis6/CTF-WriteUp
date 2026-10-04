@@ -72,11 +72,12 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - 🔒 [MakeSense](Season%2011/MakeSense/MakeSense.md)
 - 🔒 [Nimbus](Season%2011/Nimbus/Nimbus.md)
 - 🔒 [Paperwork](Season%2011/Paperwork/Paperwork.md)
-- 🔒 [Reactor](Season%2011/Reactor/Reactor.md)
+- [Reactor](Season%2011/Reactor/Reactor.md)
 
 ### Season 12
 
 - 🔒 [Layover](Season%2012/Layover/Layover.md)
+- 🔒 [Touch](Season%2012/Touch/Touch.md)
 
 ### Easy
 
