@@ -67,7 +67,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - 🔒 [Connected](Season%2011/Connected/Connected.md)
 - 🔒 [DanglingTree](Season%2011/DanglingTree/DanglingTree.md)
 - 🔒 [DarkZeroReturns](Season%2011/DarkZeroReturns/DarkZeroReturns.md)
-- 🔒 [DevHub](Season%2011/DevHub/DevHub.md)
+- [DevHub](Season%2011/DevHub/DevHub.md)
 - 🔒 [Enigma](Season%2011/Enigma/Enigma.md)
 - 🔒 [MakeSense](Season%2011/MakeSense/MakeSense.md)
 - 🔒 [Nimbus](Season%2011/Nimbus/Nimbus.md)
