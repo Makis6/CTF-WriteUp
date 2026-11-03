@@ -62,14 +62,14 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 
 ### Season 11
 
-- 🔒 [Checkpoint](Season%2011/Checkpoint/Checkpoint.md)
+- [Checkpoint](Season%2011/Checkpoint/Checkpoint.md)
 - 🔒 [Cohort](Season%2011/Cohort/Cohort.md)
 - 🔒 [Connected](Season%2011/Connected/Connected.md)
 - 🔒 [DanglingTree](Season%2011/DanglingTree/DanglingTree.md)
 - 🔒 [DarkZeroReturns](Season%2011/DarkZeroReturns/DarkZeroReturns.md)
 - [DevHub](Season%2011/DevHub/DevHub.md)
 - 🔒 [Enigma](Season%2011/Enigma/Enigma.md)
-- 🔒 [MakeSense](Season%2011/MakeSense/MakeSense.md)
+- [MakeSense](Season%2011/MakeSense/MakeSense.md)
 - 🔒 [Nimbus](Season%2011/Nimbus/Nimbus.md)
 - 🔒 [Paperwork](Season%2011/Paperwork/Paperwork.md)
 - [Reactor](Season%2011/Reactor/Reactor.md)
