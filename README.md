@@ -76,7 +76,11 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 
 ### Season 12
 
+- 🔒 [Autopilot](Season%2012/Autopilot/Autopilot.md)
+- 🔒 [DutyBound](Season%2012/DutyBound/DutyBound.md)
 - 🔒 [Layover](Season%2012/Layover/Layover.md)
+- 🔒 [Stream](Season%2012/Stream/Stream.md)
+- 🔒 [Takeoff](Season%2012/Takeoff/Takeoff.md)
 - 🔒 [Touch](Season%2012/Touch/Touch.md)
 
 ### Easy
