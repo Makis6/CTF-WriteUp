@@ -1,9 +1,15 @@
 # Autopilot
 
-🔒 **This writeup has not been published yet.**
+<img src="Images/Autopilot%20-%20logo.png" width="200">
 
-It will be released once finished.
+🔒 **This machine is still active on HackTheBox.**
+
+The writeup will be released once the machine is retired.
 
 ---
 
-🏆 **[Autopilot has been Pwned on HackTheBox](https://labs.hackthebox.com/achievement/machine/2127339/993)**
+<div align="center">
+  <a href="https://labs.hackthebox.com/achievement/machine/2127339/993">
+    <img src="Images/Autopilot%20-%20pwned.png" width="600" alt="Autopilot has been Pwned">
+  </a>
+</div>

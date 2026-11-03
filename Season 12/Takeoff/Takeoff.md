@@ -2,9 +2,9 @@
 
 <img src="Images/Takeoff%20-%20logo.png" width="200">
 
-🔒 **This writeup has not been published yet.**
+🔒 **This machine is still active on HackTheBox.**
 
-It will be released once finished.
+The writeup will be released once the machine is retired.
 
 ---
 
