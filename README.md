@@ -18,7 +18,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - [Administrator](CPTS%20Prep%20Track/Administrator/Administrator.md)
 - [Authority](CPTS%20Prep%20Track/Authority/Authority.md)
 - [Craft](CPTS%20Prep%20Track/Craft/Craft.md)
-- [EscapeTwo](CPTS%20Prep%20Track/EscapeTwo/EscapteTwo.md)
+- [EscapeTwo](CPTS%20Prep%20Track/EscapeTwo/EscapeTwo.md)
 - [Fluffy](CPTS%20Prep%20Track/Fluffy/Fluffy.md)
 - [Jeeves](CPTS%20Prep%20Track/Jeeves/Jeeves.md)
 - [Media](CPTS%20Prep%20Track/Media/Media.md)
@@ -50,7 +50,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 
 - [CCTV](Season%2010/CCTV/CCTV.md)
 - [DevArea](Season%2010/DevArea/DevArea.md)
-- 🔒 [Garfield](Season%2010/Garfield/Garfield.md)
+- [Garfield](Season%2010/Garfield/Garfield.md)
 - [Interpreter](Season%2010/Interpreter/Interpreter.md)
 - [Kobold](Season%2010/Kobold/Kobold.md)
 - [Logging](Season%2010/Logging/Logging.md)
@@ -132,3 +132,8 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 
 - 🔒 [Scaffold](Hard/Windows/Scaffold/Scaffold.md)
 
+### Insane
+
+**Windows**
+
+- 🔒 [Trustfall](Insane/Windows/Trustfall/Trustfall.md)
